@@ -1,0 +1,3 @@
+# APICloud_APP
+个人的混合式App开发
+#使用apiCloud开发工具来打开，把里面的APPId和APPkey换成自己的，再导入相应的数据库和在自己的项目里面添加对应的模块
